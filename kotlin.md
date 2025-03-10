@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Kotlin"
+permalink: /kotlin/
 ---
 
 # Kotlin

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "R"
+permalink: /r/
 ---
 
 # R

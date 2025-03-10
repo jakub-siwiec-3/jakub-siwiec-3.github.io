@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "C++"
+permalink: /c++/
 ---
 
 # C++

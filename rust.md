@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Rust"
+permalink: /rust/
 ---
 
 # Rust

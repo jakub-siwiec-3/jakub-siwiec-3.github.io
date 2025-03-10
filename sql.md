@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "SQL"
+permalink: /sql/
 ---
 
 # SQL

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Ada"
+permalink: /ada/
 ---
 
 # Ada

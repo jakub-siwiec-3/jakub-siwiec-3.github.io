@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Fortran"
+permalink: /fortran/
 ---
 
 # Fortran

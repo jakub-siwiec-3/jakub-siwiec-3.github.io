@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Assembly language"
+permalink: /assembly-language/
 ---
 
 # Assembly language

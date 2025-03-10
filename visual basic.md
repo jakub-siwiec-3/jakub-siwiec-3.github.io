@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Visual Basic"
+permalink: /visual-basic/
 ---
 
 # Visual Basic

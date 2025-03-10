@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Python"
+permalink: /python/
 ---
 
 # Python

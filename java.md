@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Java"
+permalink: /java/
 ---
 
 # Java

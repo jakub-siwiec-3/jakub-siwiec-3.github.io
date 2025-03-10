@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "COBOL"
+permalink: /cobol/
 ---
 
 # COBOL

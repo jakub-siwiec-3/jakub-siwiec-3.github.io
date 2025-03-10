@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Delphi/Object Pascal"
+permalink: /delphi-object-pascal/
 ---
 
 # Delphi/Object Pascal
